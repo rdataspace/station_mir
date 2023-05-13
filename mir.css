@@ -15,8 +15,8 @@ body {
 /* Background */
 
 .background {
-  background-color: #444;
-  background-blend-mode: overlay;
+  background-color: #aaa;
+  background-blend-mode: multiply;
   background-attachment: fixed;
 }
 .backMir {
